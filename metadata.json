@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Airtel \u0026 Jio Fiber Manager",
+  "description": "A comprehensive Airtel and Jio Fiber management dashboard featuring remote WiFi toggle, network schedule, device blocking/unblocking, parental controls, plan details, and an AI customer support assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
